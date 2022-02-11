@@ -1,0 +1,23 @@
+body{    
+    background: linear-gradient(90deg, rgba(125,250,255,1) 0%, rgba(134,142,255,1) 100%);    
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.img-mod{
+    height: 50%;
+    width: 50%;
+}
+
+span{
+    font-size: bolda;
+}
